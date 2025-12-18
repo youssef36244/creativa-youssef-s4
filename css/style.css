@@ -1,0 +1,357 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ .word-style{
+    padding: 10px;
+    word-spacing:200px;
+    color: white;
+    font-size: 15px;
+ }
+ .container{
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 auto;
+ }
+ .w-25{
+    width:25%;
+ }
+ .w-50{
+    width: 49%;
+ }
+ .inline-block{
+    display: inline-block;
+    vertical-align: middle;
+ }
+ .text-align{
+    text-align: center;
+ }
+ .nav-item{
+    width: 10%;
+ }
+ .nav-link:hover{
+    font-weight: bold;
+ }
+.ull{
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.button-style{
+    border: 1px none ;
+    background-color: #00A6FB;
+    padding:3% 8%; 
+    margin-left: 100px; 
+    border-radius: 4px;
+    font-weight: bold;
+    color: white;
+}
+.button-style:hover{
+    box-shadow:  0 2px 30px #00A6FB66;
+}
+.div-style{
+    height: 704px;
+    background-image: url(../photos/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.h1-style{
+    color: white;
+    font-size: 45px;
+    padding-top: 5%;
+}
+.h1-1-style{
+    font-size: 45px;
+    color: white;
+    padding-bottom: 2%;
+}
+.p-style{
+    margin-bottom: .25%;
+}
+.p-linda{
+    color: white;
+    letter-spacing: 1px;
+}
+.p-1-style{
+    margin-bottom: 6.3%;
+}
+ .div-ourteam{
+    height: fit-content;
+    background-color: #001F3F;
+
+ }
+ .ourteam-style{
+    padding-top:5% ;
+    padding-bottom: 2%;
+    font-size: 45px;
+ }
+ .text-color{
+    color: white;
+ }
+ .card{
+    width: 424px;
+    height: fit-content;
+    background-color: #001B37;
+    border: 1px solid #133150; 
+    border-radius: 18px;
+    margin: 0px 12px 60px 12px;
+    padding: 30px 25px 0 25px;
+    text-align: left ;
+
+ }
+.img-ellipse{
+    margin: 5px;
+}
+.p-ellipse{
+    color: dimgray;
+    margin-bottom: 20px;
+}
+.icon{
+    color: dimgray;
+    padding-bottom: 10px;
+    border-radius: 4px;
+}
+.p-jack{
+    color: dimgray;
+    margin-bottom: 60px;
+}
+.p-marc{
+    color: dimgray;
+    margin-bottom: 80px;
+}
+.who{
+    background-color: #BCD1E7;
+    height: fit-content;
+}
+.who-style{
+    color: #001F3F;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 58px;
+    font-family: raleway;
+}
+.whop-style{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    color: #767676;
+}
+.divwho{
+    margin: 20px 110px;
+}
+.img-who{
+    margin:49px 0 ;
+}
+.experience{
+    background-color: #001F3F;
+    height: fit-content;
+}
+ .rel{
+    position: relative;
+    background-repeat: no-repeat;
+    aspect-ratio: 1/1;
+    background-image: url(../photos/unsplash_6anudmpILw4.png);
+    margin-left: 60px;
+    top:50px;
+}
+
+ .abs{
+    position: absolute;
+    width: 45%;
+    height: 35%;   
+    background-color: #00A6FB;
+    top: 5%;
+    margin-left: 690px;
+    margin-right: 300px;
+}  
+.h4-exp{
+    font-family: Work Sans;
+    margin-top: 4%;
+    margin-bottom: 7%;
+    margin-left: 2%;
+    line-height: 100%;
+    font-size: 36px;
+
+}
+.p-exp{
+    width: 500px;
+    font-size: 20px;
+    line-height: 100%;
+    font-family: Work Sans;
+    margin: 2%;
+    color: white;
+}
+.but{
+    margin: 4%;
+    font-family: Work Sans;
+    font-size: 18px;
+    line-height: 100%;
+    padding: 3%;
+    border-radius: 10px;
+}
+.pro{
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 53px;
+    line-height: 58px;
+    color: white;
+    width: 480px;
+    margin-bottom: 2%;
+}
+.the{
+    width: 600px;
+    height: 87px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    line-height: 160%;
+    color: rgb(186, 185, 185);
+    margin-bottom: 2%;
+}
+.uul{
+    color: rgb(186, 185, 185);
+}
+.m-left{
+    margin-left: 2%;
+}
+
+.relative{
+    background-image: url(../photos/Rectangle\ 5.png);
+    position: relative;
+    height: fit-content;
+    background-repeat: no-repeat;
+    aspect-ratio: 1/1;
+    left: 25%;
+}
+.v{
+    background-color: white;
+    height: fit-content;
+
+}
+.h{
+    font-weight: bold;
+    font-size: 52px;
+    line-height: 58px;
+    font-family: raleway;
+    color: #001F3F;
+    margin-left: 2%;
+
+}
+.pp{
+    width: 600px;
+    height: 200px;
+    margin-left: 3%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    line-height: 160%;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+.d{
+    margin-right: 9%;
+}
+.imm{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.sec{
+    background-color: #001F3F;
+    color: white;
+    height: fit-content;
+}
+.immg{
+    margin-top: 2%;
+    margin-left: 7%;
+}
+.term{
+    margin-right: 50%;
+}
+.div-em{
+    background-color: #BCD1E7;
+    height: fit-content;
+}
+.img-em{
+    width: 30%;
+    padding-left: 50px;
+    margin-right: 250px;
+}
+.emailus{
+    margin-top: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 100%;
+    color: #00A6FB;
+    border-right: 3px solid;
+    text-align: right;
+    padding-right: 10px;
+}
+.h3-email{
+    color: #001F3F;
+    font-weight: bold;
+    font-size: 52px;
+    line-height: 58px;
+    font-family: raleway;
+}
+.inp-email{
+    background-color: white;
+    border-radius: 12px;
+    width: 612px;
+    height: 50px;
+    padding: 2%;
+    margin: 1%;
+}
+.submit-email{
+    background-color: #00A6FB;
+    border-radius: 12px;
+    width: 612px;
+    height: 50px;
+    padding: 2%;
+    margin: 1%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 60px;
+}
+.footer{
+    background-color: #001F3F;
+    height: fit-content;
+    vertical-align: middle;
+}
+.img-footer{
+    width: 111px;
+    height: 111px;
+    margin-bottom: 20px;
+}
+.join-footer{
+    padding-top: 50px;
+    padding-left: 200px;
+}
+.join-ourstyle{
+    font-family: raleway;
+    padding-bottom: 20px;
+}
+.style2023{
+    padding-top: 190px;
+    padding-bottom: 20px;
+}
+.p-180{
+    padding-bottom: 180px;
+}
+.con{
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 100%;
+    width: 114px;
+    height: 26px;
+    padding-bottom: 50px;
+    font-family: raleway;
+}
+.i-margin{
+    margin-bottom: 20px;
+}
